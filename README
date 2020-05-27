@@ -9,11 +9,18 @@ like this
 // cache size  : 3072 KB
 // cpu cores  : 2
 
+How to execute
+
+$tar xzf application.linux64.tar.gz
+$cd application.linux64
+$sh cpuinfo
+
+======================
+
 written in processing.
 
 2020 May 24th
-bt Ztaku
-
+copyright by Ztaku
 
 
 
