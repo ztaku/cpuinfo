@@ -1,7 +1,5 @@
 # cpuinfo
 
-
-
 Cpuinfo disps your cpu's information on ubuntu.
 
 like this
@@ -17,7 +15,6 @@ cpu cores  : 2
 <img src="screenshot1.png" alt="screenshot1" style="zoom:67%;" />
 
 
-
 ##  How to execute
 
 ```
@@ -25,8 +22,6 @@ $tar xzf application.linux64.tar.gz
 $cd application.linux64
 $sh cpuinfo
 ```
-
-
 
 You need java.
 
